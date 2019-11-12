@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682224122736",
+    "firebase_url": "https://camreafirebaseapp.firebaseio.com",
+    "project_id": "camreafirebaseapp",
+    "storage_bucket": "camreafirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682224122736:android:063238854ffbd04306edb5",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682224122736-mi0ue1u6q1q2v6r1v8i59t0lcdt0467d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjviFzSJxpaiCiFsyyK5eT9DMBS-dX63g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682224122736-mi0ue1u6q1q2v6r1v8i59t0lcdt0467d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
